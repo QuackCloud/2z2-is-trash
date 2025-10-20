@@ -1,4 +1,4 @@
-# 2z2-is-trash
+# 2z2 is trash
 # 🦆 Quack Cloud — Code thật, không AI viết hộ ☁️💻
 
 > Một cú “gáy” nhẹ gửi tới 2z2 Cloud Gaming —  
