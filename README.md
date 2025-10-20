@@ -26,7 +26,7 @@ mà đến từ **kinh nghiệm, mồ hôi, và caffeine.**
 
 ## ⚡ Quack Cloud thì khác
 - Code tay từng dòng, tối ưu từng byte.  
-- Chạy thật trên cloud thật, không phải "cloud = VPS giá rẻ".  
+- Chạy thật trên cloud free, không phải "cloud = VPS free rồi đem bán dưới dạng token".  
 - Không copy AI snippet rồi debug 3 tiếng.  
 - Giao diện có **tâm, tốc độ có tầm.**  
 
